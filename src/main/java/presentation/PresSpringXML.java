@@ -10,7 +10,5 @@ public class PresSpringXML {
         IMetier metier=(IMetier) context.getBean("metier");
         System.out.println("Résultat=>"+metier.calcul());
 
-
-
     }
 }

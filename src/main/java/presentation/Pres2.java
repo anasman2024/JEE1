@@ -25,8 +25,5 @@ public class Pres2 {
         method.invoke(metier,dao);
         System.out.println("Resultat="+metier.calcul());
         //System.out.println(dao.getData());
-
-
-
     }
 }
